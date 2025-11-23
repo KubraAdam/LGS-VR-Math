@@ -11,4 +11,4 @@ Bu tabloda, projenin bireysel katkılarını gösteren video bağlantıları lis
 | **MUHAMMET GAZİ BORAN** | Ekip Üyesi 5'in Video Linkini Buraya Yapıştırın | Link Buraya |
 | **MELİH ÇALIŞIR** | Ekip Üyesi 6'nın Video Linkini Buraya Yapıştırın | Link Buraya |
 | **ÖMER ALKAN** | Ekip Üyesi 7'nin Video Linkini Buraya Yapıştırın | Link Buraya |
-| **SAMET ÇEFTÇİ** | Ekip Üyesi 8'in Video Linkini Buraya Yapıştırın | Link Buraya |
+| **SAMET ÇiFTCİ** | Ekip Üyesi 8'in Video Linkini Buraya Yapıştırın | [https://youtu.be/eAGtwihPoT0] |
