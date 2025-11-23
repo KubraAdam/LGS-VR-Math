@@ -10,5 +10,5 @@ Bu tabloda, projenin bireysel katkılarını gösteren video bağlantıları lis
 | **SERHAT PAMUK** | Ekip Üyesi 4'ün Video Linkini Buraya Yapıştırın | Link Buraya |
 | **MUHAMMET GAZİ BORAN** | Ekip Üyesi 5'in Video Linkini Buraya Yapıştırın | Link Buraya |
 | **MELİH ÇALIŞIR** | Ekip Üyesi 6'nın Video Linkini Buraya Yapıştırın | Link Buraya |
-| **ÖMER ALKAN** | Ekip Üyesi 7'nin Video Linkini Buraya Yapıştırın | Link Buraya |
+| **ÖMER ALKAN** | SMART analizi, Veri Etiketleme, Kalite kontrolü | [https://youtu.be/2S7FmCSR_K0] |
 | **SAMET ÇiFTCİ** | Ekip Üyesi 8'in Video Linkini Buraya Yapıştırın | [https://youtu.be/eAGtwihPoT0] |
