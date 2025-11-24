@@ -8,7 +8,7 @@ Bu tabloda, projenin bireysel katkılarını gösteren video bağlantıları lis
 | **ŞEVVAL İLAYDA ÖZDEMİR** |SWOT analizi, Veri Temizleme, Veri Etiketleme  | [https://youtu.be/jwoAel6O8-o] |
 | **ELİF BUSE KÖPRÜCÜ** | SMART - SWOT analizi, Veri kaynağı bulma ve Veri etiketleme | [https://youtu.be/qEBxB8W72Uo] |
 | **SERHAT PAMUK** | Ekip Üyesi 4'ün Video Linkini Buraya Yapıştırın | Link Buraya |
-| **MUHAMMET GAZİ BORAN** | Ekip Üyesi 5'in Video Linkini Buraya Yapıştırın | Link Buraya |
+| **MUHAMMET GAZİ BORAN** | Ekip Üyesi 5'in Video Linkini Buraya Yapıştırın | https://www.youtube.com/watch?v=urfkrsBj9UI |
 | **MELİH ÇALIŞIR** | Ekip Üyesi 6'nın Video Linkini Buraya Yapıştırın | Link Buraya |
 | **ÖMER ALKAN** | SMART analizi, Veri Etiketleme, Kalite kontrolü | [https://youtu.be/2S7FmCSR_K0] |
 | **SAMET ÇiFTCİ** | Ekip Üyesi 8'in Video Linkini Buraya Yapıştırın | [https://youtu.be/eAGtwihPoT0] |
