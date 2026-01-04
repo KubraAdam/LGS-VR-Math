@@ -1,0 +1,56 @@
+soru_metin,alt_konu,pred_alt_konu,soru_tipi,pred_soru_tipi
+(√3 + √5)/(√3 − √5) + (√3 − √5)/(√3 + √5) işlemi kaça eşittir?,Rasyonelleştirme,İşlem ve Sadeleştirme,Hesaplama,Hesaplama
+"Terazi sorusu: ^6√(2x)⁵ kg kavun, diğer tarafta ^3√(x − 12)² kg karpuz. 1 < x < 10 aralığında denge koşulundan x'in alabileceği değerler toplamı kaçtır?",Denklemler,Üslü ve Köklü İfadeler,Hesaplama,Hesaplama
+"Her birinin çevresinin uzunluğu 24√2 cm olan eşkenar üçgen şeklindeki 6 adet sarı bayrak, köşeleri birbirleriyle, kenarları ise iple çakışacak biçimde Şekil I’deki gibi bir ipe dizildiğinde ipin iki ucunda da boşluk kalmamıştır. Aynı ipe, Şekil I’de verilen bayraklardan 4 tanesi ve eşkenar üçgen biçimindeki özdeş 3 mavi bayrak, köşeleri birbirleriyle, kenarları ise iple çakışacak biçimde Şekil II’deki gibi dizildiğinde ipin her iki ucunda da boşluk kalmamıştır. Buna göre, mavi bayraklardan birinin bir kenarının uzunluğu kaç santimetredir?",Alan ve Geometri,Alan ve Geometri,Problem,Yorum
+a : b : c = 1 : 3 : 2 ve a < b < c ise √(a² + b² − c²) işlemi kaçtır?,Problem Çözme,Üslü ve Köklü İfadeler,Problem,Hesaplama
+Yukarıdaki kenar uzunlukları verilen ABC dik üçgeninin alanı ile KLMN dikdörtgeninin alanı birbirine eşittir. Buna göre |KL| kaç santimetredir?,Alan ve Geometri,Alan ve Geometri,Hesaplama,Problem
+x < 0 olmak üzere √(27x) · ³√(−27x²) · √(x²) işleminin sonucu kaçtır?,İşlem ve Sadeleştirme,Üslü ve Köklü İfadeler,Hesaplama,Hesaplama
+Ağırlıkları köklü sayılarla verilen vagonlardan hangisinden ayrılırsa lokomotif en fazla sayıda vagon çekebilir?,Karşılaştırma ve Sıralama,Problem Çözme,Problem,Problem
+√(2a - 11) sayısı bir reel sayı ise a tam sayısı en az kaç olabilir?,Tam Sayı / Özel Tanımlar,Tam Sayı / Özel Tanımlar,Hesaplama,Yorum
+√32 sayısı aşağıdaki sayılardan hangisi ile çarpılırsa sonuç 20 ile 30 arasında bir doğal sayı olur?,Yaklaşık Değer,İşlem ve Sadeleştirme,Yorum,Hesaplama
+"Yukarıdaki şekilde verilen ölçümlere göre, sincap hangi ağaca en yakındır?",Problem Çözme,Yaklaşık Değer,Problem,Yorum
+M = 1/(√7 − √2). Buna göre M’nin aşağıdakilerden hangisi bir tam sayıdır?,Rasyonelleştirme,Üslü ve Köklü İfadeler,Hesaplama,Hesaplama
+"Bir şifreleme yönteminde alfabemizdeki 29 harf bulundukları sıranın karekökü bir tam sayı ise o tam sayı olarak, değil ise karekökünün en yakın olduğu tam sayı değeri olarak kodlanmaktadır. Buna göre AHMET isminin kodu nedir?",Algoritmik / Mantıksal Problemler,Yaklaşık Değer,Problem,Yorum
+"Tablo 1’de verilen ifadelerin her biri Tablo 2’de verilen ifadelerin her biri ile birer birer kez çarpılıyor. Bu şekilde elde edilen sayıların her biri, bir karta bir sayı gelecek şekilde özdeş kartlara yazılarak boş bir torbaya atılıyor. Torbadan rastgele çekilen bir kartın üzerinde yazan sayının doğal sayı olma olasılığının 1/8 olması için A yerine aşağıdakilerden hangisi yazılmalıdır?",Problem Çözme,Yaklaşık Değer,Hesaplama,Yorum
+Bir kenarının uzunluğu √8 cm olan eşkenar üçgenin çevresinin uzunluğu kaç santimetredir?,Alan ve Geometri,Alan ve Geometri,Hesaplama,Yorum
+İlk ölçümde boyu √50 cm olan çimler her gün 1 cm uzamaktadır. Buna göre 5 gün sonra çimlerin boyu hangi iki tam sayı arasındadır?,Yaklaşık Değer,Problem Çözme,Problem,Problem
+Her kartta bir kareköklü ifadenin a√b biçimindeki gösterimi vardır. Buna göre aşağıdakilerden hangisi arka yüzde yazılı olamaz?,İşlem ve Sadeleştirme,Tam Sayı / Özel Tanımlar,Yorum,Yorum
+√x sayısının eşit olduğu sayının tam kısmı 4 ise x sayısı aşağıdakilerden hangisi olamaz?,Yaklaşık Değer,Tam Sayı / Özel Tanımlar,Yorum,Yorum
+"Ahmet, boyutları 10√3 cm ve 20√3 cm olan kartona, boyutları 4√2 cm ve 3√2 cm olan 10 adet fotoğraf yapıştırmıştır. Fotoğraf yapıştırılan alan kartonun yüzde kaçıdır?",Problem Çözme,Alan ve Geometri,Problem,Problem
+"(√3,6 + √0,4 - √0,1) / √4,9 kesri kaça eşittir?",İşlem ve Sadeleştirme,Üslü ve Köklü İfadeler,Hesaplama,Hesaplama
+"√75 + √48 işleminin sonucu, aşağıdakilerden hangisi ile çarpılırsa bir tam sayı elde edilir?",İşlem ve Sadeleştirme,İşlem ve Sadeleştirme,Yorum,Hesaplama
+"Şekildeki gibi bir vincin havada tuttuğu inşaat malzemesinin yerden yüksekliği √125 m ve malzemenin vincin koluna uzaklığı √45 m’dir. Vincin kolunun yerden yüksekliği sabit kalmak üzere malzeme şekildeki konumdayken √5 m yukarı çekiliyor. Buna göre son durumda malzemenin yerden yüksekliği, malzemenin vincin koluna uzaklığından kaç metre fazladır?",Alan ve Geometri,Problem Çözme,Hesaplama,Yorum
+Dikdörtgen biçimindeki duvar eş parçalara ayrılmıştır. Boyalı alanlara göre kullanılan boya tüpü sayısı en az kaçtır?,Alan ve Geometri,Alan ve Geometri,Yorum,Problem
+"Aşağıdaki sayılardan hangisi, kenar uzunluğu tam sayı olan bir karenin alanını gösterir?",Tam Sayı / Özel Tanımlar,Yaklaşık Değer,Yorum,Yorum
+√200 + √2 − x = 0 ve 7√2 + y − √18 = −√2 eşitliklerine göre x + y işleminin sonucu aşağıdakilerden hangisidir?,Denklemler,İşlem ve Sadeleştirme,Hesaplama,Hesaplama
+Uzunluğu √216 cm olan bir tahta parçası √6 cm uzunluğunda eş parçalara ayrılıyor. Buna göre kaç tane parça elde edilir?,İşlem ve Sadeleştirme,Alan ve Geometri,Hesaplama,Problem
+Rasyonel ve irrasyonel sayılarla oluşturulan kulelerin yükseklik farkı hangi iki ardışık tam sayı arasındadır?,Tam Sayı / Özel Tanımlar,Yaklaşık Değer,Yorum,Yorum
+√(5 - 2√6) + √(3 + 2√2) işlemi kaça eşittir?,Üslü ve Köklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Hesaplama
+"Kaç tane √20 sayısının çarpımı, aynı miktarda √12’nin toplamına eşit olur?",Karşılaştırma ve Sıralama,Üslü ve Köklü İfadeler,Yorum,Hesaplama
+Aşağıdakilerden hangisi bir irrasyonel sayıdır?,Tam Sayı / Özel Tanımlar,Tam Sayı / Özel Tanımlar,Hesaplama,Yorum
+Karekökü tam sayı olmayan iki basamaklı kaç tane doğal sayı vardır?,Yaklaşık Değer,Tam Sayı / Özel Tanımlar,Yorum,Yorum
+1’den 100’e kadar sayılar boyanıyor. 2’nin ve 3’ün kuvvetleri ile tam kareler renklendiriliyor. Son durumda turuncu ve mor kare sayıları hangisinde doğrudur?,Tam Sayı / Özel Tanımlar,Problem Çözme,Yorum,Problem
+"x bir rakam ve √7,x = 8/3 olduğuna göre x kaçtır?",Denklemler,Tam Sayı / Özel Tanımlar,Hesaplama,Hesaplama
+"Bir küpün karşılıklı yüzlerinde √a, √b ve √c sayıları bulunmaktadır. Karşılıklı yüzlerdeki sayıların çarpımının doğal sayı olabilmesi için a+b+c en az kaç olabilir?",Tam Sayı / Özel Tanımlar,Tam Sayı / Özel Tanımlar,Problem,Yorum
+(√72 · √27) / √36 işleminin sonucu aşağıdaki sayılardan hangisi ile çarpılırsa sonuç bir doğal sayı olur?,Tam Sayı / Özel Tanımlar,İşlem ve Sadeleştirme,Hesaplama,Hesaplama
+9ab üç basamaklı bir doğal sayıdır. √9ab bir rasyonel sayı olduğuna göre a+b+c toplamı aşağıdakilerden hangisi olabilir?,Tam Sayı / Özel Tanımlar,Tam Sayı / Özel Tanımlar,Yorum,Problem
+Aşağıdaki eşitliklerden hangisi yanlıştır?,İşlem ve Sadeleştirme,İşlem ve Sadeleştirme,Yorum,Hesaplama
+4/(√6+√20) − 5/√5 işleminin sonucu kaçtır?,Rasyonelleştirme,İşlem ve Sadeleştirme,Hesaplama,Hesaplama
+Alanı 24 cm² olan bir dikdörtgenin kenar uzunlukları aşağıdakilerden hangisi olamaz?,Alan ve Geometri,Alan ve Geometri,Problem,Yorum
+"⁴√0,0016 + ³√0,027 işleminin sonucu kaçtır?",Üslü ve Köklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Hesaplama
+(⁸√2 − 1)·(⁸√2 + 1)·(⁴√2 + 1)·(√2 + 1) + 1 Yukarıdaki işlemin sonucu kaçtır?,İşlem ve Sadeleştirme,Üslü ve Köklü İfadeler,Hesaplama,Hesaplama
+"Alanı 200 cm² olan dikdörtgen kartondan 10 özdeş kare kesiliyor, parça artmıyor. Kartonun çevresi en az kaç cm?",Problem Çözme,Alan ve Geometri,Problem,Problem
+"√40 sayısının eşit olduğu sayının tam kısmı x, √10 sayısının eşit olduğu sayının tam kısmı y ise √(x+y) kaça eşittir?",Yaklaşık Değer,Tam Sayı / Özel Tanımlar,Problem,Yorum
+"Aşağıda eşit aralıklara bölünmüş sayı doğrusu üzerinde A, B, C, D noktaları işaretlenmiştir. Bu noktalardan hangisi √35 ile eşleşen noktaya en yakın konumdadır?",Karşılaştırma ve Sıralama,Yaklaşık Değer,Yorum,Yorum
+Boyları 5 m ve 6 m olan direkler arasında dikilen fidanın boyu bu iki değer arasındadır. Buna göre fidan kaç metre uzamış olabilir?,Yaklaşık Değer,Problem Çözme,Yorum,Problem
+"√0,0049 ifadesi aşağıdakilerden hangisine eşittir?",İşlem ve Sadeleştirme,Üslü ve Köklü İfadeler,Hesaplama,Hesaplama
+"Mavi renkli iki karesel bölge ile beyaz renkli bir dikdörtgensel bölgeden oluşan ve uzun kenarının uzunluğu √3,24 dm olan dikdörtgen şeklindeki iki özdeş kağıt aşağıda verilmiştir. Bu kağıtlar; birer mavi bölgeleri çakışacak biçimde aşağıdaki gibi yerleştirildiğinde oluşan dikdörtgen şeklin uzun kenarının uzunluğu √10,24 dm olmuştur. Buna göre, beyaz bölgelerden birinin uzun kenarının uzunluğu kaç desimetredir?",Alan ve Geometri,Alan ve Geometri,Yorum,Problem
+[∛3 + 1/5 + √(2−1/5)]^(5/10) işlemi kaçtır?,İşlem ve Sadeleştirme,Üslü ve Köklü İfadeler,Hesaplama,Hesaplama
+"Esra, bir kenarının uzunluğu 4 cm olan kare şeklindeki 5 eş karton parçasını aralarında boşluk kalmayacak ve üst üste gelmeyecek biçimde kare şeklindeki bir mukavvaya yapıştırmıştır. Bu mukavvanın dışına taşmayacak biçimde bir yüzünün tamamının kaplanması için kare şeklindeki karton parçalarından en az kaç tane daha gereklidir?",Problem Çözme,Alan ve Geometri,Problem,Problem
+"I) √0,12 : √0,03  II) √0,5 · √4  III) √1,6 · √10  IV) √20 : √5  Yukarıdaki işlemlerden hangilerinin sonucu birbirine eşittir?",Karşılaştırma ve Sıralama,Üslü ve Köklü İfadeler,Yorum,Yorum
+M = (√2 + 1)/(2 − √2) ise (√2 − 1)/(2 + √2) ifadesinin M cinsinden değeri aşağıdakilerden hangisidir?,Karşılaştırma ve Sıralama,Üslü ve Köklü İfadeler,Yorum,Hesaplama
+Deniz 0 dan başlayarak x doğal sayısına kadar tüm doğal sayıların karekökünü hesap makinesinde tuşluyor. Çıkan sonuçların tam kısımlarını not edip toplayan Deniz sonucu 46 buluyor. Buna göre x sayısı kaçtır?,Tam Sayı / Özel Tanımlar,Yaklaşık Değer,Problem,Yorum
+"İç içe çarklar. Puan: Yeşil sayıdan büyük en küçük doğal sayı x Turuncu sayıdan küçük en büyük doğal sayı. Doruk'un puanı kaç? (Görseldeki sayılar: Yeşil 157, Turuncu 50)",Algoritmik / Mantıksal Problemler,Problem Çözme,Problem,Problem
+"Aşağıdaki kareli zeminde verilen şekillerden ABCD dikdörtgeninin alanı 300 cm^2'dir. Buna göre, KLMN karesinin çevresinin uzunluğu PRST karesinin çevresinin uzunluğundan kaç santimetre fazladır?",Alan ve Geometri,Alan ve Geometri,Yorum,Problem
+"Dikdörtgen biçimindeki bir kartonun ön yüzünün tamamı 3 özdeş dikdörtgen ve 6 özdeş kareye ayrılmıştır. Dikdörtgenler maviye, kareler ise sarıya boyalı olarak aşağıda verilmiştir. Eş karelerin her birinin alanı 5 cm² dir. Buna göre, bu kartonun bir yüzünün alanı kaç santimetrekaredir?",Alan ve Geometri,Alan ve Geometri,Hesaplama,Problem
+"""İki farklı irrasyonel sayının çarpımı rasyonel olabilir."" ifadesine örnekler: Kerem: √24 ile √54, Doruk: 4√2 ile √98, Tunahan: √45 ile 4√5, Eylül: 2√3 ile √72. Hangisi uygun değildir?",Üslü ve Köklü İfadeler,Üslü ve Köklü İfadeler,Yorum,Hesaplama

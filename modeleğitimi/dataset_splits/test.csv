@@ -1,0 +1,565 @@
+id,sinav_turu,yil,konu,alt_konu,soru_tipi,zorluk,soru_metin,secenek_A,secenek_B,secenek_C,secenek_D,secenek_E,dogru_cevap,kaynak_turu,gorsel_bagimli,text_input,stratify_col
+86,LGS,2025,Kareköklü İfadeler,Problem Çözme,Problem,Orta,İki dairesel çarktan içteki sabit dıştaki dönebilen bir çarktır. Bu dairesel çarkların üzerindeki köklü sayılar çarkları 4 eşit parçaya ayırmıştır. Buna göre dıştaki çarkı saatin dönme yönünde kaç derece çevirirsek yan yana ve üst üste gelen köklü sayıların çarpımı tam sayı yapar?,90,135,180,270,360,C,Kitap,bagimli,"[SORU] İki dairesel çarktan içteki sabit dıştaki dönebilen bir çarktır. Bu dairesel çarkların üzerindeki köklü sayılar çarkları 4 eşit parçaya ayırmıştır. Buna göre dıştaki çarkı saatin dönme yönünde kaç derece çevirirsek yan yana ve üst üste gelen köklü sayıların çarpımı tam sayı yapar?
+[A] 90
+[B] 135
+[C] 180
+[D] 270
+[E] 360
+[GÖRSEL] Bu soru görsele bağlıdır.",Problem Çözme_Problem
+69,LGS,2020,Kareköklü İfadeler,Üslü ve Köklü İfadeler,Hesaplama,Zor,a ve b reel sayılar olmak üzere 25^a = 27^b ise 9^(a/b) kaça eşittir?,∛3,³√5,⁵√3,³√25,5³√5,E,Örnek,yok,"[SORU] a ve b reel sayılar olmak üzere 25^a = 27^b ise 9^(a/b) kaça eşittir?
+[A] ∛3
+[B] ³√5
+[C] ⁵√3
+[D] ³√25
+[E] 5³√5",Üslü ve Köklü İfadeler_Hesaplama
+459,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Problem,Orta,"Şekildeki yan yana çizilmiş karelerin alanları sırasıyla 576 cm², 441 cm² ve 25 cm²'dir. Buna göre |AB| kaç santimetredir?",50,75,96,144,,A,MEB,bagimli,"[SORU] Şekildeki yan yana çizilmiş karelerin alanları sırasıyla 576 cm², 441 cm² ve 25 cm²'dir. Buna göre |AB| kaç santimetredir?
+[A] 50
+[B] 75
+[C] 96
+[D] 144
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Problem
+305,LGS,2024,Kareköklü İfadeler,Problem Çözme,Problem,Orta,Kırmızı araba bulunduğu noktadan en fazla 5 km gidebilecek yakıta sahiptir. Benzin istasyonlarına olan uzaklıklar köklü sayılarla verilmiştir. Araba hangi istasyonu seçerse yakıtı bitmeden ulaşabilir?,I,II,III,IV,-,B,Deneme,bagimli,"[SORU] Kırmızı araba bulunduğu noktadan en fazla 5 km gidebilecek yakıta sahiptir. Benzin istasyonlarına olan uzaklıklar köklü sayılarla verilmiştir. Araba hangi istasyonu seçerse yakıtı bitmeden ulaşabilir?
+[A] I
+[B] II
+[C] III
+[D] IV
+[E] -
+[GÖRSEL] Bu soru görsele bağlıdır.",Problem Çözme_Problem
+128,LGS,2022,Kareköklü İfadeler,Karşılaştırma ve Sıralama,Yorum,Kolay,"pH değerleri: Bulaşık(5√2), Portakal(2√2), Çay(3√3), Süt(√35). Kaçı asidik (<7)?",1,2,3,4,5,C,MEB,destekleyici,"[SORU] pH değerleri: Bulaşık(5√2), Portakal(2√2), Çay(3√3), Süt(√35). Kaçı asidik (<7)?
+[A] 1
+[B] 2
+[C] 3
+[D] 4
+[E] 5",Karşılaştırma ve Sıralama_Yorum
+462,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Problem,Orta,"Şekildeki ABCD ve KLMD karelerinin alanları sırasıyla 169 cm² ve 25 cm²'dir. Buna göre, |AK| kaç santimetredir?",5,8,9,12,,B,MEB,bagimli,"[SORU] Şekildeki ABCD ve KLMD karelerinin alanları sırasıyla 169 cm² ve 25 cm²'dir. Buna göre, |AK| kaç santimetredir?
+[A] 5
+[B] 8
+[C] 9
+[D] 12
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Problem
+73,LGS,2020,Kareköklü İfadeler,Rasyonelleştirme,Hesaplama,Zor,(√3 + √5)/(√3 − √5) + (√3 − √5)/(√3 + √5) işlemi kaça eşittir?,√2,√3,3,4,3√2,C,Kitap,yok,"[SORU] (√3 + √5)/(√3 − √5) + (√3 − √5)/(√3 + √5) işlemi kaça eşittir?
+[A] √2
+[B] √3
+[C] 3
+[D] 4
+[E] 3√2",Rasyonelleştirme_Hesaplama
+575,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Problem,Orta,Kare tekerlekli bisiklet platformu. Tekerlek alanı ve yarım silindir sayıları verilmiştir. A-B arası mesafe kaç cm'dir?,75√5,150√5,225√5,300√5,,D,MEB,bagimli,"[SORU] Kare tekerlekli bisiklet platformu. Tekerlek alanı ve yarım silindir sayıları verilmiştir. A-B arası mesafe kaç cm'dir?
+[A] 75√5
+[B] 150√5
+[C] 225√5
+[D] 300√5
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Problem
+598,LGS,2025,Kareköklü İfadeler,Yaklaşık Değer,Yorum,Orta,Karekökünün değeri en yakın doğal sayı 3 olan tam kare olmayan sayılara göre çizilebilecek kaç farklı şekil vardır?,3,5,7,9,,B,MEB,bagimli,"[SORU] Karekökünün değeri en yakın doğal sayı 3 olan tam kare olmayan sayılara göre çizilebilecek kaç farklı şekil vardır?
+[A] 3
+[B] 5
+[C] 7
+[D] 9
+[GÖRSEL] Bu soru görsele bağlıdır.",Yaklaşık Değer_Yorum
+28,LGS,2020,Kareköklü İfadeler,Denklemler,Hesaplama,Orta,"Terazi sorusu: ^6√(2x)⁵ kg kavun, diğer tarafta ^3√(x − 12)² kg karpuz. 1 < x < 10 aralığında denge koşulundan x'in alabileceği değerler toplamı kaçtır?",5,6,10,15,21,A,Örnek,yok,"[SORU] Terazi sorusu: ^6√(2x)⁵ kg kavun, diğer tarafta ^3√(x − 12)² kg karpuz. 1 < x < 10 aralığında denge koşulundan x'in alabileceği değerler toplamı kaçtır?
+[A] 5
+[B] 6
+[C] 10
+[D] 15
+[E] 21",Denklemler_Hesaplama
+212,LGS,2023,Kareköklü İfadeler,Alan ve Geometri,Problem,Zor,"Her birinin çevresinin uzunluğu 24√2 cm olan eşkenar üçgen şeklindeki 6 adet sarı bayrak, köşeleri birbirleriyle, kenarları ise iple çakışacak biçimde Şekil I’deki gibi bir ipe dizildiğinde ipin iki ucunda da boşluk kalmamıştır. Aynı ipe, Şekil I’de verilen bayraklardan 4 tanesi ve eşkenar üçgen biçimindeki özdeş 3 mavi bayrak, köşeleri birbirleriyle, kenarları ise iple çakışacak biçimde Şekil II’deki gibi dizildiğinde ipin her iki ucunda da boşluk kalmamıştır. Buna göre, mavi bayraklardan birinin bir kenarının uzunluğu kaç santimetredir?",2√2,8√2/3,4√2,16√2/3,-,D,MEB,bagimli,"[SORU] Her birinin çevresinin uzunluğu 24√2 cm olan eşkenar üçgen şeklindeki 6 adet sarı bayrak, köşeleri birbirleriyle, kenarları ise iple çakışacak biçimde Şekil I’deki gibi bir ipe dizildiğinde ipin iki ucunda da boşluk kalmamıştır. Aynı ipe, Şekil I’de verilen bayraklardan 4 tanesi ve eşkenar üçgen biçimindeki özdeş 3 mavi bayrak, köşeleri birbirleriyle, kenarları ise iple çakışacak biçimde Şekil II’deki gibi dizildiğinde ipin her iki ucunda da boşluk kalmamıştır. Buna göre, mavi bayraklardan birinin bir kenarının uzunluğu kaç santimetredir?
+[A] 2√2
+[B] 8√2/3
+[C] 4√2
+[D] 16√2/3
+[E] -
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Problem
+535,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Problem,Orta,Üst yüzünün alanı 360 cm² olan 3 özdeş kare ayna ile yapılan şeklin çevresi kaç cm'dir?,36√10,40√10,56√10,64√10,,C,MEB,bagimli,"[SORU] Üst yüzünün alanı 360 cm² olan 3 özdeş kare ayna ile yapılan şeklin çevresi kaç cm'dir?
+[A] 36√10
+[B] 40√10
+[C] 56√10
+[D] 64√10
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Problem
+85,LGS,2025,Kareköklü İfadeler,Üslü ve Köklü İfadeler,Hesaplama,Orta,³√(−2) · ⁶√16 işleminin sonucu kaçtır?,−4,−2,1,2,4,D,Deneme,yok,"[SORU] ³√(−2) · ⁶√16 işleminin sonucu kaçtır?
+[A] −4
+[B] −2
+[C] 1
+[D] 2
+[E] 4",Üslü ve Köklü İfadeler_Hesaplama
+16,LGS,2020,Kareköklü İfadeler,Problem Çözme,Problem,Orta,a : b : c = 1 : 3 : 2 ve a < b < c ise √(a² + b² − c²) işlemi kaçtır?,4,7,9,15,21,B,Deneme,yok,"[SORU] a : b : c = 1 : 3 : 2 ve a < b < c ise √(a² + b² − c²) işlemi kaçtır?
+[A] 4
+[B] 7
+[C] 9
+[D] 15
+[E] 21",Problem Çözme_Problem
+479,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Hesaplama,Kolay,Yukarıdaki kenar uzunlukları verilen ABC dik üçgeninin alanı ile KLMN dikdörtgeninin alanı birbirine eşittir. Buna göre |KL| kaç santimetredir?,2√3,4√3,6√3,8√3,,B,MEB,bagimli,"[SORU] Yukarıdaki kenar uzunlukları verilen ABC dik üçgeninin alanı ile KLMN dikdörtgeninin alanı birbirine eşittir. Buna göre |KL| kaç santimetredir?
+[A] 2√3
+[B] 4√3
+[C] 6√3
+[D] 8√3
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Hesaplama
+54,LGS,2020,Kareköklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Orta,x < 0 olmak üzere √(27x) · ³√(−27x²) · √(x²) işleminin sonucu kaçtır?,-9x,-3x,x,3x,3x²,A,Deneme,yok,"[SORU] x < 0 olmak üzere √(27x) · ³√(−27x²) · √(x²) işleminin sonucu kaçtır?
+[A] -9x
+[B] -3x
+[C] x
+[D] 3x
+[E] 3x²",İşlem ve Sadeleştirme_Hesaplama
+295,LGS,2024,Kareköklü ifadeler,Karşılaştırma ve Sıralama,Problem,Orta,Ağırlıkları köklü sayılarla verilen vagonlardan hangisinden ayrılırsa lokomotif en fazla sayıda vagon çekebilir?,K,L,M,N,-,A,Deneme,bagimli,"[SORU] Ağırlıkları köklü sayılarla verilen vagonlardan hangisinden ayrılırsa lokomotif en fazla sayıda vagon çekebilir?
+[A] K
+[B] L
+[C] M
+[D] N
+[E] -
+[GÖRSEL] Bu soru görsele bağlıdır.",Karşılaştırma ve Sıralama_Problem
+184,LGS,2025,Kareköklü İfadeler,Tam Sayı / Özel Tanımlar,Hesaplama,Kolay,√(2a - 11) sayısı bir reel sayı ise a tam sayısı en az kaç olabilir?,5,9,7,8,6,E,Kitap,yok,"[SORU] √(2a - 11) sayısı bir reel sayı ise a tam sayısı en az kaç olabilir?
+[A] 5
+[B] 9
+[C] 7
+[D] 8
+[E] 6",Tam Sayı / Özel Tanımlar_Hesaplama
+355,LGS,2020,Kareköklü İfadeler,Yaklaşık Değer,Yorum,Orta,√32 sayısı aşağıdaki sayılardan hangisi ile çarpılırsa sonuç 20 ile 30 arasında bir doğal sayı olur?,√2,√8,√18,√24,,C,Örnek,yok,"[SORU] √32 sayısı aşağıdaki sayılardan hangisi ile çarpılırsa sonuç 20 ile 30 arasında bir doğal sayı olur?
+[A] √2
+[B] √8
+[C] √18
+[D] √24",Yaklaşık Değer_Yorum
+106,LGS,2022,Kareköklü İfadeler,Alan ve Geometri,Problem,Zor,"Personel kartında resim yapıştırılan kare bölgenin alanı, kartın alanının %40'ıdır. Resim karesinin bir kenarı 2√5 cm'dir. Kartın kenarları doğal sayı olduğuna göre çevresi kaç cm'dir?",20,30,34,54,60,B,MEB,destekleyici,"[SORU] Personel kartında resim yapıştırılan kare bölgenin alanı, kartın alanının %40'ıdır. Resim karesinin bir kenarı 2√5 cm'dir. Kartın kenarları doğal sayı olduğuna göre çevresi kaç cm'dir?
+[A] 20
+[B] 30
+[C] 34
+[D] 54
+[E] 60",Alan ve Geometri_Problem
+373,LGS,2020,Kareköklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Orta,3√18 + √128 − 3√50 işleminin sonucu aşağıdakilerden hangisidir?,−√2,2√2,10√2,32√2,,B,Kitap,yok,"[SORU] 3√18 + √128 − 3√50 işleminin sonucu aşağıdakilerden hangisidir?
+[A] −√2
+[B] 2√2
+[C] 10√2
+[D] 32√2",İşlem ve Sadeleştirme_Hesaplama
+689,LGS,2019,Kareköklü İfadeler,Problem Çözme,Problem,Orta,"Yukarıdaki şekilde verilen ölçümlere göre, sincap hangi ağaca en yakındır?",Ayva,Badem,Ceviz,Dut,,D,MEB,bagimli,"[SORU] Yukarıdaki şekilde verilen ölçümlere göre, sincap hangi ağaca en yakındır?
+[A] Ayva
+[B] Badem
+[C] Ceviz
+[D] Dut
+[GÖRSEL] Bu soru görsele bağlıdır.",Problem Çözme_Problem
+11,LGS,2020,Kareköklü İfadeler,Rasyonelleştirme,Hesaplama,Orta,M = 1/(√7 − √2). Buna göre M’nin aşağıdakilerden hangisi bir tam sayıdır?,M−1,M²,M³,M⁴,M⁵,E,Örnek,yok,"[SORU] M = 1/(√7 − √2). Buna göre M’nin aşağıdakilerden hangisi bir tam sayıdır?
+[A] M−1
+[B] M²
+[C] M³
+[D] M⁴
+[E] M⁵",Rasyonelleştirme_Hesaplama
+526,LGS,2025,Kareköklü İfadeler,Algoritmik / Mantıksal Problemler,Problem,Zor,"Bir şifreleme yönteminde alfabemizdeki 29 harf bulundukları sıranın karekökü bir tam sayı ise o tam sayı olarak, değil ise karekökünün en yakın olduğu tam sayı değeri olarak kodlanmaktadır. Buna göre AHMET isminin kodu nedir?",12435,13425,13452,14235,,B,MEB,destekleyici,"[SORU] Bir şifreleme yönteminde alfabemizdeki 29 harf bulundukları sıranın karekökü bir tam sayı ise o tam sayı olarak, değil ise karekökünün en yakın olduğu tam sayı değeri olarak kodlanmaktadır. Buna göre AHMET isminin kodu nedir?
+[A] 12435
+[B] 13425
+[C] 13452
+[D] 14235",Algoritmik / Mantıksal Problemler_Problem
+225,LGS,2019,Kareköklü ifadeler,Problem Çözme,Hesaplama,Orta,"Tablo 1’de verilen ifadelerin her biri Tablo 2’de verilen ifadelerin her biri ile birer birer kez çarpılıyor. Bu şekilde elde edilen sayıların her biri, bir karta bir sayı gelecek şekilde özdeş kartlara yazılarak boş bir torbaya atılıyor. Torbadan rastgele çekilen bir kartın üzerinde yazan sayının doğal sayı olma olasılığının 1/8 olması için A yerine aşağıdakilerden hangisi yazılmalıdır?",√2,√3,√5,√7,-,C,MEB,bagimli,"[SORU] Tablo 1’de verilen ifadelerin her biri Tablo 2’de verilen ifadelerin her biri ile birer birer kez çarpılıyor. Bu şekilde elde edilen sayıların her biri, bir karta bir sayı gelecek şekilde özdeş kartlara yazılarak boş bir torbaya atılıyor. Torbadan rastgele çekilen bir kartın üzerinde yazan sayının doğal sayı olma olasılığının 1/8 olması için A yerine aşağıdakilerden hangisi yazılmalıdır?
+[A] √2
+[B] √3
+[C] √5
+[D] √7
+[E] -
+[GÖRSEL] Bu soru görsele bağlıdır.",Problem Çözme_Hesaplama
+211,LGS,2025,Kareköklü İfadeler,Üslü ve Köklü İfadeler,Hesaplama,Orta,"a < 0 < b, √((a − b)^2) + ⁴√(a^4) − ³√(b^3) işlemi aşağıdakilerden hangisine eşittir?",-2a,-b,a − b,a,2b,A,Kitap,yok,"[SORU] a < 0 < b, √((a − b)^2) + ⁴√(a^4) − ³√(b^3) işlemi aşağıdakilerden hangisine eşittir?
+[A] -2a
+[B] -b
+[C] a − b
+[D] a
+[E] 2b",Üslü ve Köklü İfadeler_Hesaplama
+600,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Hesaplama,Kolay,Bir kenarının uzunluğu √8 cm olan eşkenar üçgenin çevresinin uzunluğu kaç santimetredir?,2√2,√11,3√2,6√2,,D,MEB,yok,"[SORU] Bir kenarının uzunluğu √8 cm olan eşkenar üçgenin çevresinin uzunluğu kaç santimetredir?
+[A] 2√2
+[B] √11
+[C] 3√2
+[D] 6√2",Alan ve Geometri_Hesaplama
+311,LGS,2024,Kareköklü İfadeler,Yaklaşık Değer,Problem,Kolay,İlk ölçümde boyu √50 cm olan çimler her gün 1 cm uzamaktadır. Buna göre 5 gün sonra çimlerin boyu hangi iki tam sayı arasındadır?,10-11,11-12,12-13,13-14,-,C,Deneme,bagimli,"[SORU] İlk ölçümde boyu √50 cm olan çimler her gün 1 cm uzamaktadır. Buna göre 5 gün sonra çimlerin boyu hangi iki tam sayı arasındadır?
+[A] 10-11
+[B] 11-12
+[C] 12-13
+[D] 13-14
+[E] -
+[GÖRSEL] Bu soru görsele bağlıdır.",Yaklaşık Değer_Problem
+606,LGS,2023,Kareköklü İfadeler,İşlem ve Sadeleştirme,Yorum,Orta,Her kartta bir kareköklü ifadenin a√b biçimindeki gösterimi vardır. Buna göre aşağıdakilerden hangisi arka yüzde yazılı olamaz?,5√28,2√27,2√70,3√20,,C,MEB,bagimli,"[SORU] Her kartta bir kareköklü ifadenin a√b biçimindeki gösterimi vardır. Buna göre aşağıdakilerden hangisi arka yüzde yazılı olamaz?
+[A] 5√28
+[B] 2√27
+[C] 2√70
+[D] 3√20
+[GÖRSEL] Bu soru görsele bağlıdır.",İşlem ve Sadeleştirme_Yorum
+183,LGS,2025,Kareköklü İfadeler,Yaklaşık Değer,Yorum,Kolay,√x sayısının eşit olduğu sayının tam kısmı 4 ise x sayısı aşağıdakilerden hangisi olamaz?,17,19,22,26,28,D,Kitap,yok,"[SORU] √x sayısının eşit olduğu sayının tam kısmı 4 ise x sayısı aşağıdakilerden hangisi olamaz?
+[A] 17
+[B] 19
+[C] 22
+[D] 26
+[E] 28",Yaklaşık Değer_Yorum
+53,LGS,2020,Kareköklü İfadeler,Üslü ve Köklü İfadeler,Hesaplama,Zor,⁴√(17 + 12√2) işlemi aşağıdakilerden hangisine eşittir?,√2 − 1,√2 + 1,1,√2,2,B,Kitap,yok,"[SORU] ⁴√(17 + 12√2) işlemi aşağıdakilerden hangisine eşittir?
+[A] √2 − 1
+[B] √2 + 1
+[C] 1
+[D] √2
+[E] 2",Üslü ve Köklü İfadeler_Hesaplama
+103,LGS,2022,Kareköklü İfadeler,Problem Çözme,Problem,Orta,"Ahmet, boyutları 10√3 cm ve 20√3 cm olan kartona, boyutları 4√2 cm ve 3√2 cm olan 10 adet fotoğraf yapıştırmıştır. Fotoğraf yapıştırılan alan kartonun yüzde kaçıdır?",20,30,40,50,60,C,MEB,destekleyici,"[SORU] Ahmet, boyutları 10√3 cm ve 20√3 cm olan kartona, boyutları 4√2 cm ve 3√2 cm olan 10 adet fotoğraf yapıştırmıştır. Fotoğraf yapıştırılan alan kartonun yüzde kaçıdır?
+[A] 20
+[B] 30
+[C] 40
+[D] 50
+[E] 60",Problem Çözme_Problem
+209,LGS,2025,Kareköklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Kolay,"(√3,6 + √0,4 - √0,1) / √4,9 kesri kaça eşittir?",1,√2,√5,√10,10,A,Kitap,yok,"[SORU] (√3,6 + √0,4 - √0,1) / √4,9 kesri kaça eşittir?
+[A] 1
+[B] √2
+[C] √5
+[D] √10
+[E] 10",İşlem ve Sadeleştirme_Hesaplama
+31,LGS,2020,Kareköklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Kolay,10·√(2/5) + 6·√(5/2) − √250 işleminin sonucu kaçtır?,0,√2,√5,√10,5,A,Örnek,yok,"[SORU] 10·√(2/5) + 6·√(5/2) − √250 işleminin sonucu kaçtır?
+[A] 0
+[B] √2
+[C] √5
+[D] √10
+[E] 5",İşlem ve Sadeleştirme_Hesaplama
+425,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Problem,Orta,"Kenarlarının uzunlukları 2√10 cm ve 4√10 cm olan dikdörtgen şeklindeki bir kâğıdın ön yüzüne, kenarlarının uzunlukları √3 cm ve 4√3 cm olan iki eş dikdörtgensel bölge çizilerek aşağıdaki gibi maviye boyanmıştır. Buna göre, bu kâğıdın ön yüzünde maviye boyanmayan bölgenin alanı kaç santimetrekaredir?",36,56,58,68,,B,MEB,bagimli,"[SORU] Kenarlarının uzunlukları 2√10 cm ve 4√10 cm olan dikdörtgen şeklindeki bir kâğıdın ön yüzüne, kenarlarının uzunlukları √3 cm ve 4√3 cm olan iki eş dikdörtgensel bölge çizilerek aşağıdaki gibi maviye boyanmıştır. Buna göre, bu kâğıdın ön yüzünde maviye boyanmayan bölgenin alanı kaç santimetrekaredir?
+[A] 36
+[B] 56
+[C] 58
+[D] 68
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Problem
+366,LGS,2020,Kareköklü İfadeler,Denklemler,Hesaplama,Orta,√(4^(2x+5)) / √(2^(4x+a)) = 4 olduğuna göre a kaçtır?,2,3,4,6,,D,Kitap,yok,"[SORU] √(4^(2x+5)) / √(2^(4x+a)) = 4 olduğuna göre a kaçtır?
+[A] 2
+[B] 3
+[C] 4
+[D] 6",Denklemler_Hesaplama
+614,LGS,2020,Kareköklü İfadeler,Problem Çözme,Yorum,Orta,Bilye parkurunda mavi bölgede kalan bilyenin başlangıç çizgisine uzaklığı hangisi olamaz?,2√10,3√5,4√3,2√13,,D,MEB,bagimli,"[SORU] Bilye parkurunda mavi bölgede kalan bilyenin başlangıç çizgisine uzaklığı hangisi olamaz?
+[A] 2√10
+[B] 3√5
+[C] 4√3
+[D] 2√13
+[GÖRSEL] Bu soru görsele bağlıdır.",Problem Çözme_Yorum
+486,LGS,2025,Kareköklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Kolay,4√3 + √5 − 5√3 + 5√5 işleminin sonucu aşağıdakilerden hangisidir?,6√5 − √3,3√3 + 5√5,5√10,6√5 + √3,,A,MEB,yok,"[SORU] 4√3 + √5 − 5√3 + 5√5 işleminin sonucu aşağıdakilerden hangisidir?
+[A] 6√5 − √3
+[B] 3√3 + 5√5
+[C] 5√10
+[D] 6√5 + √3",İşlem ve Sadeleştirme_Hesaplama
+221,LGS,2025,Kareköklü ifadeler,Üslü ve Köklü İfadeler,Hesaplama,Kolay,√(√5 − 1) · √(√5 + 1) işlemi kaça eşittir?,1,√2,2,√5,2√5,C,Kitap,yok,"[SORU] √(√5 − 1) · √(√5 + 1) işlemi kaça eşittir?
+[A] 1
+[B] √2
+[C] 2
+[D] √5
+[E] 2√5",Üslü ve Köklü İfadeler_Hesaplama
+515,LGS,2025,Kareköklü İfadeler,İşlem ve Sadeleştirme,Yorum,Kolay,"√75 + √48 işleminin sonucu, aşağıdakilerden hangisi ile çarpılırsa bir tam sayı elde edilir?",√10,√5,√3,√2,,C,MEB,yok,"[SORU] √75 + √48 işleminin sonucu, aşağıdakilerden hangisi ile çarpılırsa bir tam sayı elde edilir?
+[A] √10
+[B] √5
+[C] √3
+[D] √2",İşlem ve Sadeleştirme_Yorum
+237,LGS,2019,Kareköklü ifadeler,Alan ve Geometri,Hesaplama,Orta,"Şekildeki gibi bir vincin havada tuttuğu inşaat malzemesinin yerden yüksekliği √125 m ve malzemenin vincin koluna uzaklığı √45 m’dir. Vincin kolunun yerden yüksekliği sabit kalmak üzere malzeme şekildeki konumdayken √5 m yukarı çekiliyor. Buna göre son durumda malzemenin yerden yüksekliği, malzemenin vincin koluna uzaklığından kaç metre fazladır?",2√5,3√5,4√5,5√5,-,C,MEB,bagimli,"[SORU] Şekildeki gibi bir vincin havada tuttuğu inşaat malzemesinin yerden yüksekliği √125 m ve malzemenin vincin koluna uzaklığı √45 m’dir. Vincin kolunun yerden yüksekliği sabit kalmak üzere malzeme şekildeki konumdayken √5 m yukarı çekiliyor. Buna göre son durumda malzemenin yerden yüksekliği, malzemenin vincin koluna uzaklığından kaç metre fazladır?
+[A] 2√5
+[B] 3√5
+[C] 4√5
+[D] 5√5
+[E] -
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Hesaplama
+599,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Yorum,Zor,Dikdörtgen biçimindeki duvar eş parçalara ayrılmıştır. Boyalı alanlara göre kullanılan boya tüpü sayısı en az kaçtır?,14,11,8,6,,C,MEB,bagimli,"[SORU] Dikdörtgen biçimindeki duvar eş parçalara ayrılmıştır. Boyalı alanlara göre kullanılan boya tüpü sayısı en az kaçtır?
+[A] 14
+[B] 11
+[C] 8
+[D] 6
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Yorum
+214,LGS,2023,Kareköklü İfadeler,Alan ve Geometri,Problem,Orta,"Yukarıda verilen dikdörtgen şeklindeki bir zemine parke döşenmektedir. Zeminde döşeli dikdörtgen biçiminde üç özdeş parke ile ilgili bazı ölçüler şekilde verilmiştir. Buna göre, parke döşenmemiş bölgelerin alanları toplamı kaç desimetrekaredir?",72,84,96,148,-,B,MEB,bagimli,"[SORU] Yukarıda verilen dikdörtgen şeklindeki bir zemine parke döşenmektedir. Zeminde döşeli dikdörtgen biçiminde üç özdeş parke ile ilgili bazı ölçüler şekilde verilmiştir. Buna göre, parke döşenmemiş bölgelerin alanları toplamı kaç desimetrekaredir?
+[A] 72
+[B] 84
+[C] 96
+[D] 148
+[E] -
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Problem
+470,LGS,2025,Kareköklü İfadeler,Tam Sayı / Özel Tanımlar,Yorum,Kolay,"Aşağıdaki sayılardan hangisi, kenar uzunluğu tam sayı olan bir karenin alanını gösterir?",16,25,32,49,,C,MEB,yok,"[SORU] Aşağıdaki sayılardan hangisi, kenar uzunluğu tam sayı olan bir karenin alanını gösterir?
+[A] 16
+[B] 25
+[C] 32
+[D] 49",Tam Sayı / Özel Tanımlar_Yorum
+498,LGS,2025,Kareköklü İfadeler,Denklemler,Hesaplama,Kolay,√200 + √2 − x = 0 ve 7√2 + y − √18 = −√2 eşitliklerine göre x + y işleminin sonucu aşağıdakilerden hangisidir?,−7√2,−6√2,6√2,7√2,,C,MEB,yok,"[SORU] √200 + √2 − x = 0 ve 7√2 + y − √18 = −√2 eşitliklerine göre x + y işleminin sonucu aşağıdakilerden hangisidir?
+[A] −7√2
+[B] −6√2
+[C] 6√2
+[D] 7√2",Denklemler_Hesaplama
+367,LGS,2020,Kareköklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Kolay,Uzunluğu √216 cm olan bir tahta parçası √6 cm uzunluğunda eş parçalara ayrılıyor. Buna göre kaç tane parça elde edilir?,36,18,9,6,,D,Örnek,yok,"[SORU] Uzunluğu √216 cm olan bir tahta parçası √6 cm uzunluğunda eş parçalara ayrılıyor. Buna göre kaç tane parça elde edilir?
+[A] 36
+[B] 18
+[C] 9
+[D] 6",İşlem ve Sadeleştirme_Hesaplama
+549,LGS,2025,Kareköklü İfadeler,Tam Sayı / Özel Tanımlar,Yorum,Orta,Rasyonel ve irrasyonel sayılarla oluşturulan kulelerin yükseklik farkı hangi iki ardışık tam sayı arasındadır?,15 ile 16,16 ile 17,17 ile 18,18 ile 19,,B,MEB,bagimli,"[SORU] Rasyonel ve irrasyonel sayılarla oluşturulan kulelerin yükseklik farkı hangi iki ardışık tam sayı arasındadır?
+[A] 15 ile 16
+[B] 16 ile 17
+[C] 17 ile 18
+[D] 18 ile 19
+[GÖRSEL] Bu soru görsele bağlıdır.",Tam Sayı / Özel Tanımlar_Yorum
+157,LGS,2025,Kareköklü İfadeler,Üslü ve Köklü İfadeler,Hesaplama,Kolay,√(5 - 2√6) + √(3 + 2√2) işlemi kaça eşittir?,1,√2,√3,√3 + 1,2,D,Kitap,yok,"[SORU] √(5 - 2√6) + √(3 + 2√2) işlemi kaça eşittir?
+[A] 1
+[B] √2
+[C] √3
+[D] √3 + 1
+[E] 2",Üslü ve Köklü İfadeler_Hesaplama
+15,LGS,2020,Kareköklü İfadeler,Karşılaştırma ve Sıralama,Yorum,Kolay,"Kaç tane √20 sayısının çarpımı, aynı miktarda √12’nin toplamına eşit olur?",8,10,12,16,20,B,Kitap,yok,"[SORU] Kaç tane √20 sayısının çarpımı, aynı miktarda √12’nin toplamına eşit olur?
+[A] 8
+[B] 10
+[C] 12
+[D] 16
+[E] 20",Karşılaştırma ve Sıralama_Yorum
+200,LGS,2024,Kareköklü İfadeler,Tam Sayı / Özel Tanımlar,Hesaplama,Kolay,Aşağıdakilerden hangisi bir irrasyonel sayıdır?,√14,"1,2̅","√1,44",12,-,A,MEB,yok,"[SORU] Aşağıdakilerden hangisi bir irrasyonel sayıdır?
+[A] √14
+[B] 1,2̅
+[C] √1,44
+[D] 12
+[E] -",Tam Sayı / Özel Tanımlar_Hesaplama
+41,LGS,2020,Kareköklü İfadeler,Denklemler,Hesaplama,Orta,√(2x − y − 5) + ⁵√(x − y − 2) = 0. x·y çarpımı kaçtır?,1,3,6,8,10,C,Kitap,bagimli,"[SORU] √(2x − y − 5) + ⁵√(x − y − 2) = 0. x·y çarpımı kaçtır?
+[A] 1
+[B] 3
+[C] 6
+[D] 8
+[E] 10
+[GÖRSEL] Bu soru görsele bağlıdır.",Denklemler_Hesaplama
+148,LGS,2025,Kareköklü İfadeler,Üslü ve Köklü İfadeler,Hesaplama,Kolay,√3 = a ve √5 = b ise √60 aşağıdakilerden hangisine eşittir?,a+b,a.b,2.b,2,2.a.b,E,Kitap,yok,"[SORU] √3 = a ve √5 = b ise √60 aşağıdakilerden hangisine eşittir?
+[A] a+b
+[B] a.b
+[C] 2.b
+[D] 2
+[E] 2.a.b",Üslü ve Köklü İfadeler_Hesaplama
+475,LGS,2025,Kareköklü İfadeler,Yaklaşık Değer,Yorum,Kolay,Karekökü tam sayı olmayan iki basamaklı kaç tane doğal sayı vardır?,84,86,88,90,,A,MEB,yok,"[SORU] Karekökü tam sayı olmayan iki basamaklı kaç tane doğal sayı vardır?
+[A] 84
+[B] 86
+[C] 88
+[D] 90",Yaklaşık Değer_Yorum
+331,LGS,2024,Kareköklü İfadeler,Problem Çözme,Problem,Orta,"10√7 mL’lik üç kolonyanın alkol oranları sırasıyla %70, %80 ve %85’tir. Herhangi iki kolonyadaki alkol miktarı farkı (mL) aşağıdaki hangi iki tam sayı arasında değildir?",1 - 2,2 - 3,3 - 4,4 - 5,,D,Deneme,bagimli,"[SORU] 10√7 mL’lik üç kolonyanın alkol oranları sırasıyla %70, %80 ve %85’tir. Herhangi iki kolonyadaki alkol miktarı farkı (mL) aşağıdaki hangi iki tam sayı arasında değildir?
+[A] 1 - 2
+[B] 2 - 3
+[C] 3 - 4
+[D] 4 - 5
+[GÖRSEL] Bu soru görsele bağlıdır.",Problem Çözme_Problem
+596,LGS,2025,Kareköklü İfadeler,Tam Sayı / Özel Tanımlar,Yorum,Orta,1’den 100’e kadar sayılar boyanıyor. 2’nin ve 3’ün kuvvetleri ile tam kareler renklendiriliyor. Son durumda turuncu ve mor kare sayıları hangisinde doğrudur?,Mor 3 - Turuncu 3,Mor 3 - Turuncu 2,Mor 2 - Turuncu 3,Mor 2 - Turuncu 2,,C,MEB,destekleyici,"[SORU] 1’den 100’e kadar sayılar boyanıyor. 2’nin ve 3’ün kuvvetleri ile tam kareler renklendiriliyor. Son durumda turuncu ve mor kare sayıları hangisinde doğrudur?
+[A] Mor 3 - Turuncu 3
+[B] Mor 3 - Turuncu 2
+[C] Mor 2 - Turuncu 3
+[D] Mor 2 - Turuncu 2",Tam Sayı / Özel Tanımlar_Yorum
+150,LGS,2025,Kareköklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Kolay,6/√2 + 10/(2√5) - √18 işlemi kaça eşittir?,√2,√3,√5,√6,√7,C,Kitap,yok,"[SORU] 6/√2 + 10/(2√5) - √18 işlemi kaça eşittir?
+[A] √2
+[B] √3
+[C] √5
+[D] √6
+[E] √7",İşlem ve Sadeleştirme_Hesaplama
+391,LGS,2020,Kareköklü İfadeler,Denklemler,Hesaplama,Orta,"x bir rakam ve √7,x = 8/3 olduğuna göre x kaçtır?",1,2,3,4,,A,Kitap,yok,"[SORU] x bir rakam ve √7,x = 8/3 olduğuna göre x kaçtır?
+[A] 1
+[B] 2
+[C] 3
+[D] 4",Denklemler_Hesaplama
+158,LGS,2025,Kareköklü İfadeler,Problem Çözme,Problem,Kolay,"Tahterevallide Selma (√225 kg) ve Selim (√100 kg) oturuyor. Denge için Selim'in yanına hangileri eklenmeli? (A: ⁴√16, B: ³√27, C: ⁵√1)",A,B,C,"B, C","A, B",E,Kitap,destekleyici,"[SORU] Tahterevallide Selma (√225 kg) ve Selim (√100 kg) oturuyor. Denge için Selim'in yanına hangileri eklenmeli? (A: ⁴√16, B: ³√27, C: ⁵√1)
+[A] A
+[B] B
+[C] C
+[D] B, C
+[E] A, B",Problem Çözme_Problem
+234,LGS,2025,Kareköklü ifadeler,Üslü ve Köklü İfadeler,Hesaplama,Zor,(³√(3√2) · √(2·³√3)) / ⁶√12 işleminin sonucu kaçtır?,1,³√2,³√6,√3,2,C,Kitap,yok,"[SORU] (³√(3√2) · √(2·³√3)) / ⁶√12 işleminin sonucu kaçtır?
+[A] 1
+[B] ³√2
+[C] ³√6
+[D] √3
+[E] 2",Üslü ve Köklü İfadeler_Hesaplama
+316,LGS,2024,Kareköklü İfadeler,Tam Sayı / Özel Tanımlar,Problem,Orta,"Bir küpün karşılıklı yüzlerinde √a, √b ve √c sayıları bulunmaktadır. Karşılıklı yüzlerdeki sayıların çarpımının doğal sayı olabilmesi için a+b+c en az kaç olabilir?",7,10,19,34,-,B,Deneme,destekleyici,"[SORU] Bir küpün karşılıklı yüzlerinde √a, √b ve √c sayıları bulunmaktadır. Karşılıklı yüzlerdeki sayıların çarpımının doğal sayı olabilmesi için a+b+c en az kaç olabilir?
+[A] 7
+[B] 10
+[C] 19
+[D] 34
+[E] -",Tam Sayı / Özel Tanımlar_Problem
+653,LGS,2021,Kareköklü İfadeler,Alan ve Geometri,Yorum,Orta,Alanı 128 cm² olan bir karenin çevresi kaç cm’dir?,32√2,16√2,64,8√2,,A,MEB,yok,"[SORU] Alanı 128 cm² olan bir karenin çevresi kaç cm’dir?
+[A] 32√2
+[B] 16√2
+[C] 64
+[D] 8√2",Alan ve Geometri_Yorum
+440,LGS,2025,Kareköklü İfadeler,Tam Sayı / Özel Tanımlar,Hesaplama,Orta,(√72 · √27) / √36 işleminin sonucu aşağıdaki sayılardan hangisi ile çarpılırsa sonuç bir doğal sayı olur?,√6,√5,√3,√2,,A,MEB,yok,"[SORU] (√72 · √27) / √36 işleminin sonucu aşağıdaki sayılardan hangisi ile çarpılırsa sonuç bir doğal sayı olur?
+[A] √6
+[B] √5
+[C] √3
+[D] √2",Tam Sayı / Özel Tanımlar_Hesaplama
+516,LGS,2025,Kareköklü İfadeler,Tam Sayı / Özel Tanımlar,Yorum,Orta,9ab üç basamaklı bir doğal sayıdır. √9ab bir rasyonel sayı olduğuna göre a+b+c toplamı aşağıdakilerden hangisi olabilir?,96,97,98,99,,C,MEB,yok,"[SORU] 9ab üç basamaklı bir doğal sayıdır. √9ab bir rasyonel sayı olduğuna göre a+b+c toplamı aşağıdakilerden hangisi olabilir?
+[A] 96
+[B] 97
+[C] 98
+[D] 99",Tam Sayı / Özel Tanımlar_Yorum
+136,LGS,2022,Kareköklü İfadeler,Alan ve Geometri,Problem,Zor,"Dikdörtgen kağıt alanı 36√2. Katlanıyor, mavi bölgeler toplamı 18. AB kenarı uzunluğu hangi aralıkta?",2 ile 3,3 ile 4,4 ile 5,5 ile 6,6 ile 7,B,MEB,bagimli,"[SORU] Dikdörtgen kağıt alanı 36√2. Katlanıyor, mavi bölgeler toplamı 18. AB kenarı uzunluğu hangi aralıkta?
+[A] 2 ile 3
+[B] 3 ile 4
+[C] 4 ile 5
+[D] 5 ile 6
+[E] 6 ile 7
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Problem
+493,LGS,2025,Kareköklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Kolay,√128 + 4√32 − √200 işleminin sonucu aşağıdakilerden hangisidir?,6√2,10√2,12√2,14√2,,D,MEB,yok,"[SORU] √128 + 4√32 − √200 işleminin sonucu aşağıdakilerden hangisidir?
+[A] 6√2
+[B] 10√2
+[C] 12√2
+[D] 14√2",İşlem ve Sadeleştirme_Hesaplama
+416,LGS,2025,Kareköklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Kolay,√27 sayısı aşağıdaki sayılardan hangisi ile çarpıldığında sonuç bir tam sayı olur?,√45,√54,√63,√75,,D,MEB,yok,"[SORU] √27 sayısı aşağıdaki sayılardan hangisi ile çarpıldığında sonuç bir tam sayı olur?
+[A] √45
+[B] √54
+[C] √63
+[D] √75",İşlem ve Sadeleştirme_Hesaplama
+569,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Problem,Orta,Alanı 200 cm² olan kare karton ikiye katlanıp √8 ve √18 cm'lik parçalar kesiliyor. Açılınca çevre kaç cm olur?,34√2,44√2,46√2,50√2,,C,MEB,bagimli,"[SORU] Alanı 200 cm² olan kare karton ikiye katlanıp √8 ve √18 cm'lik parçalar kesiliyor. Açılınca çevre kaç cm olur?
+[A] 34√2
+[B] 44√2
+[C] 46√2
+[D] 50√2
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Problem
+520,LGS,2025,Kareköklü İfadeler,Yaklaşık Değer,Yorum,Kolay,√15 sayısı hangi ardışık iki doğal sayı arasındadır?,1 ile 2,2 ile 3,3 ile 4,4 ile 5,,C,MEB,yok,"[SORU] √15 sayısı hangi ardışık iki doğal sayı arasındadır?
+[A] 1 ile 2
+[B] 2 ile 3
+[C] 3 ile 4
+[D] 4 ile 5",Yaklaşık Değer_Yorum
+124,LGS,2022,Kareköklü İfadeler,Alan ve Geometri,Problem,Zor,Çevresi 60√2 olan karton 50 eş kareye bölünüyor. Boyalı alan 160 cm². Yırtılan kısımda kaç boyalı kare var?,3,9,11,13,15,D,MEB,bagimli,"[SORU] Çevresi 60√2 olan karton 50 eş kareye bölünüyor. Boyalı alan 160 cm². Yırtılan kısımda kaç boyalı kare var?
+[A] 3
+[B] 9
+[C] 11
+[D] 13
+[E] 15
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Problem
+559,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Problem,Orta,Kare levhadan çeyrek daireler kesilmiştir. Kalan parçanın çevresi kaç metredir?,16√3,20√3,24√3,28√3,,C,MEB,bagimli,"[SORU] Kare levhadan çeyrek daireler kesilmiştir. Kalan parçanın çevresi kaç metredir?
+[A] 16√3
+[B] 20√3
+[C] 24√3
+[D] 28√3
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Problem
+484,LGS,2025,Kareköklü İfadeler,İşlem ve Sadeleştirme,Yorum,Kolay,Aşağıdaki eşitliklerden hangisi yanlıştır?,−√3 + 4√3 + 7√3 = 10√3,√2 + √2 + √2 = √18,2√11 − 2√11 = 0,5√2 + 3√3 = 8√5,,D,MEB,yok,"[SORU] Aşağıdaki eşitliklerden hangisi yanlıştır?
+[A] −√3 + 4√3 + 7√3 = 10√3
+[B] √2 + √2 + √2 = √18
+[C] 2√11 − 2√11 = 0
+[D] 5√2 + 3√3 = 8√5",İşlem ve Sadeleştirme_Yorum
+74,LGS,2020,Kareköklü İfadeler,Rasyonelleştirme,Hesaplama,Orta,4/(√6+√20) − 5/√5 işleminin sonucu kaçtır?,-1,-1/2,0,√2,√5,A,Deneme,yok,"[SORU] 4/(√6+√20) − 5/√5 işleminin sonucu kaçtır?
+[A] -1
+[B] -1/2
+[C] 0
+[D] √2
+[E] √5",Rasyonelleştirme_Hesaplama
+657,LGS,2021,Kareköklü İfadeler,Alan ve Geometri,Yorum,Orta,Alanı 196 cm² olan bir karenin bir kenarı kaç cm’dir?,14,7√4,√196,28,,A,MEB,yok,"[SORU] Alanı 196 cm² olan bir karenin bir kenarı kaç cm’dir?
+[A] 14
+[B] 7√4
+[C] √196
+[D] 28",Alan ve Geometri_Yorum
+409,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Problem,Orta,Alanı 24 cm² olan bir dikdörtgenin kenar uzunlukları aşağıdakilerden hangisi olamaz?,4√2 cm ve 3√2 cm,4√3 cm ve 2√3 cm,3√8 cm ve 2√8 cm,4√6 cm ve √6 cm,,C,MEB,yok,"[SORU] Alanı 24 cm² olan bir dikdörtgenin kenar uzunlukları aşağıdakilerden hangisi olamaz?
+[A] 4√2 cm ve 3√2 cm
+[B] 4√3 cm ve 2√3 cm
+[C] 3√8 cm ve 2√8 cm
+[D] 4√6 cm ve √6 cm",Alan ve Geometri_Problem
+243,LGS,2025,Kareköklü ifadeler,Üslü ve Köklü İfadeler,Hesaplama,Orta,"⁴√0,0016 + ³√0,027 işleminin sonucu kaçtır?",1/5,1/2,1,3/2,2,B,Kitap,yok,"[SORU] ⁴√0,0016 + ³√0,027 işleminin sonucu kaçtır?
+[A] 1/5
+[B] 1/2
+[C] 1
+[D] 3/2
+[E] 2",Üslü ve Köklü İfadeler_Hesaplama
+329,LGS,2024,Kareköklü İfadeler,Yaklaşık Değer,Yorum,Orta,"Mert telefonunu 12 cm’lik cetvelle ölçtüğünde alt kısmı 1–2, üst kısmı 10–11 aralığına denk geliyor. Buna göre telefonun uzunluğu kaç cm olabilir?",√60,√80,√100,√120,,B,Deneme,destekleyici,"[SORU] Mert telefonunu 12 cm’lik cetvelle ölçtüğünde alt kısmı 1–2, üst kısmı 10–11 aralığına denk geliyor. Buna göre telefonun uzunluğu kaç cm olabilir?
+[A] √60
+[B] √80
+[C] √100
+[D] √120",Yaklaşık Değer_Yorum
+82,LGS,2025,Kareköklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Orta,(⁸√2 − 1)·(⁸√2 + 1)·(⁴√2 + 1)·(√2 + 1) + 1 Yukarıdaki işlemin sonucu kaçtır?,0,1,√2 − 1,√2,2,B,Örnek,yok,"[SORU] (⁸√2 − 1)·(⁸√2 + 1)·(⁴√2 + 1)·(√2 + 1) + 1 Yukarıdaki işlemin sonucu kaçtır?
+[A] 0
+[B] 1
+[C] √2 − 1
+[D] √2
+[E] 2",İşlem ve Sadeleştirme_Hesaplama
+587,LGS,2025,Kareköklü İfadeler,Problem Çözme,Problem,Orta,"Alanı 200 cm² olan dikdörtgen kartondan 10 özdeş kare kesiliyor, parça artmıyor. Kartonun çevresi en az kaç cm?",24√5,28√5,32√5,36√5,,B,MEB,destekleyici,"[SORU] Alanı 200 cm² olan dikdörtgen kartondan 10 özdeş kare kesiliyor, parça artmıyor. Kartonun çevresi en az kaç cm?
+[A] 24√5
+[B] 28√5
+[C] 32√5
+[D] 36√5",Problem Çözme_Problem
+155,LGS,2025,Kareköklü İfadeler,Yaklaşık Değer,Problem,Kolay,"√40 sayısının eşit olduğu sayının tam kısmı x, √10 sayısının eşit olduğu sayının tam kısmı y ise √(x+y) kaça eşittir?",2√2,3,√10,2√3,4,B,Kitap,yok,"[SORU] √40 sayısının eşit olduğu sayının tam kısmı x, √10 sayısının eşit olduğu sayının tam kısmı y ise √(x+y) kaça eşittir?
+[A] 2√2
+[B] 3
+[C] √10
+[D] 2√3
+[E] 4",Yaklaşık Değer_Problem
+665,LGS,2019,Kareköklü İfadeler,Karşılaştırma ve Sıralama,Yorum,Orta,"Aşağıda eşit aralıklara bölünmüş sayı doğrusu üzerinde A, B, C, D noktaları işaretlenmiştir. Bu noktalardan hangisi √35 ile eşleşen noktaya en yakın konumdadır?",A,B,C,D,,B,MEB,bagimli,"[SORU] Aşağıda eşit aralıklara bölünmüş sayı doğrusu üzerinde A, B, C, D noktaları işaretlenmiştir. Bu noktalardan hangisi √35 ile eşleşen noktaya en yakın konumdadır?
+[A] A
+[B] B
+[C] C
+[D] D
+[GÖRSEL] Bu soru görsele bağlıdır.",Karşılaştırma ve Sıralama_Yorum
+236,LGS,2024,Kareköklü ifadeler,İşlem ve Sadeleştirme,Hesaplama,Kolay,√363 − √75 − √27 işleminin sonucu aşağıdakilerden hangisidir?,2√3,3√3,4√3,5√3,-,B,MEB,yok,"[SORU] √363 − √75 − √27 işleminin sonucu aşağıdakilerden hangisidir?
+[A] 2√3
+[B] 3√3
+[C] 4√3
+[D] 5√3
+[E] -",İşlem ve Sadeleştirme_Hesaplama
+607,LGS,2023,Kareköklü İfadeler,Yaklaşık Değer,Yorum,Kolay,Boyları 5 m ve 6 m olan direkler arasında dikilen fidanın boyu bu iki değer arasındadır. Buna göre fidan kaç metre uzamış olabilir?,2√2,2√3,3√2,2√6,,B,MEB,yok,"[SORU] Boyları 5 m ve 6 m olan direkler arasında dikilen fidanın boyu bu iki değer arasındadır. Buna göre fidan kaç metre uzamış olabilir?
+[A] 2√2
+[B] 2√3
+[C] 3√2
+[D] 2√6",Yaklaşık Değer_Yorum
+381,LGS,2020,Kareköklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Kolay,"√0,0049 ifadesi aşağıdakilerden hangisine eşittir?",7,"0,7","0,07","0,007",,B,Örnek,yok,"[SORU] √0,0049 ifadesi aşağıdakilerden hangisine eşittir?
+[A] 7
+[B] 0,7
+[C] 0,07
+[D] 0,007",İşlem ve Sadeleştirme_Hesaplama
+602,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Yorum,Orta,"Mavi renkli iki karesel bölge ile beyaz renkli bir dikdörtgensel bölgeden oluşan ve uzun kenarının uzunluğu √3,24 dm olan dikdörtgen şeklindeki iki özdeş kağıt aşağıda verilmiştir. Bu kağıtlar; birer mavi bölgeleri çakışacak biçimde aşağıdaki gibi yerleştirildiğinde oluşan dikdörtgen şeklin uzun kenarının uzunluğu √10,24 dm olmuştur. Buna göre, beyaz bölgelerden birinin uzun kenarının uzunluğu kaç desimetredir?","0,5","0,8",1,"1,2",,C,MEB,bagimli,"[SORU] Mavi renkli iki karesel bölge ile beyaz renkli bir dikdörtgensel bölgeden oluşan ve uzun kenarının uzunluğu √3,24 dm olan dikdörtgen şeklindeki iki özdeş kağıt aşağıda verilmiştir. Bu kağıtlar; birer mavi bölgeleri çakışacak biçimde aşağıdaki gibi yerleştirildiğinde oluşan dikdörtgen şeklin uzun kenarının uzunluğu √10,24 dm olmuştur. Buna göre, beyaz bölgelerden birinin uzun kenarının uzunluğu kaç desimetredir?
+[A] 0,5
+[B] 0,8
+[C] 1
+[D] 1,2
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Yorum
+203,LGS,2025,Kareköklü İfadeler,Denklemler,Hesaplama,Orta,3^(2x-1) = 5/3 ise 3^(x+1) kaça eşittir?,√3,√5,2√2,√15,3√5,E,Kitap,yok,"[SORU] 3^(2x-1) = 5/3 ise 3^(x+1) kaça eşittir?
+[A] √3
+[B] √5
+[C] 2√2
+[D] √15
+[E] 3√5",Denklemler_Hesaplama
+29,LGS,2020,Kareköklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Kolay,[∛3 + 1/5 + √(2−1/5)]^(5/10) işlemi kaçtır?,√3,√5,7,√10,9,C,Kitap,yok,"[SORU] [∛3 + 1/5 + √(2−1/5)]^(5/10) işlemi kaçtır?
+[A] √3
+[B] √5
+[C] 7
+[D] √10
+[E] 9",İşlem ve Sadeleştirme_Hesaplama
+456,LGS,2025,Kareköklü İfadeler,Problem Çözme,Problem,Orta,"Esra, bir kenarının uzunluğu 4 cm olan kare şeklindeki 5 eş karton parçasını aralarında boşluk kalmayacak ve üst üste gelmeyecek biçimde kare şeklindeki bir mukavvaya yapıştırmıştır. Bu mukavvanın dışına taşmayacak biçimde bir yüzünün tamamının kaplanması için kare şeklindeki karton parçalarından en az kaç tane daha gereklidir?",2,3,4,5,,C,MEB,yok,"[SORU] Esra, bir kenarının uzunluğu 4 cm olan kare şeklindeki 5 eş karton parçasını aralarında boşluk kalmayacak ve üst üste gelmeyecek biçimde kare şeklindeki bir mukavvaya yapıştırmıştır. Bu mukavvanın dışına taşmayacak biçimde bir yüzünün tamamının kaplanması için kare şeklindeki karton parçalarından en az kaç tane daha gereklidir?
+[A] 2
+[B] 3
+[C] 4
+[D] 5",Problem Çözme_Problem
+428,LGS,2025,Kareköklü İfadeler,Karşılaştırma ve Sıralama,Yorum,Orta,"I) √0,12 : √0,03  II) √0,5 · √4  III) √1,6 · √10  IV) √20 : √5  Yukarıdaki işlemlerden hangilerinin sonucu birbirine eşittir?",I ve II,I ve IV,II ve III,III ve IV,,B,MEB,yok,"[SORU] I) √0,12 : √0,03  II) √0,5 · √4  III) √1,6 · √10  IV) √20 : √5  Yukarıdaki işlemlerden hangilerinin sonucu birbirine eşittir?
+[A] I ve II
+[B] I ve IV
+[C] II ve III
+[D] III ve IV",Karşılaştırma ve Sıralama_Yorum
+250,LGS,2025,Kareköklü ifadeler,Üslü ve Köklü İfadeler,Hesaplama,Kolay,³√3 · ³√9 + ⁴√2 · ⁴√8 işlemi kaça eşittir?,4,5,6,7,8,B,Kitap,yok,"[SORU] ³√3 · ³√9 + ⁴√2 · ⁴√8 işlemi kaça eşittir?
+[A] 4
+[B] 5
+[C] 6
+[D] 7
+[E] 8",Üslü ve Köklü İfadeler_Hesaplama
+224,LGS,2025,Kareköklü ifadeler,Üslü ve Köklü İfadeler,Hesaplama,Kolay,√((√3 − 2)²) + √((√3 − 1)²) işlemi kaça eşittir?,1,2,3,4,5,A,Kitap,yok,"[SORU] √((√3 − 2)²) + √((√3 − 1)²) işlemi kaça eşittir?
+[A] 1
+[B] 2
+[C] 3
+[D] 4
+[E] 5",Üslü ve Köklü İfadeler_Hesaplama
+692,LGS,2019,Kareköklü İfadeler,İşlem ve Sadeleştirme,Hesaplama,Orta,"a ve b birer tam sayı olmak üzere, √72 sayısı a√b biçiminde yazılırsa a + b toplamı aşağıdakilerden hangisi olabilir?",6,8,10,12,,B,MEB,yok,"[SORU] a ve b birer tam sayı olmak üzere, √72 sayısı a√b biçiminde yazılırsa a + b toplamı aşağıdakilerden hangisi olabilir?
+[A] 6
+[B] 8
+[C] 10
+[D] 12",İşlem ve Sadeleştirme_Hesaplama
+76,LGS,2020,Kareköklü İfadeler,Karşılaştırma ve Sıralama,Yorum,Orta,M = (√2 + 1)/(2 − √2) ise (√2 − 1)/(2 + √2) ifadesinin M cinsinden değeri aşağıdakilerden hangisidir?,1/(2M),1/M,2M,M+1,M²,A,Kitap,yok,"[SORU] M = (√2 + 1)/(2 − √2) ise (√2 − 1)/(2 + √2) ifadesinin M cinsinden değeri aşağıdakilerden hangisidir?
+[A] 1/(2M)
+[B] 1/M
+[C] 2M
+[D] M+1
+[E] M²",Karşılaştırma ve Sıralama_Yorum
+193,LGS,2025,Kareköklü İfadeler,Tam Sayı / Özel Tanımlar,Problem,Zor,Deniz 0 dan başlayarak x doğal sayısına kadar tüm doğal sayıların karekökünü hesap makinesinde tuşluyor. Çıkan sonuçların tam kısımlarını not edip toplayan Deniz sonucu 46 buluyor. Buna göre x sayısı kaçtır?,17,18,19,20,21,B,Kitap,yok,"[SORU] Deniz 0 dan başlayarak x doğal sayısına kadar tüm doğal sayıların karekökünü hesap makinesinde tuşluyor. Çıkan sonuçların tam kısımlarını not edip toplayan Deniz sonucu 46 buluyor. Buna göre x sayısı kaçtır?
+[A] 17
+[B] 18
+[C] 19
+[D] 20
+[E] 21",Tam Sayı / Özel Tanımlar_Problem
+585,LGS,2025,Kareköklü İfadeler,Algoritmik / Mantıksal Problemler,Problem,Zor,"İç içe çarklar. Puan: Yeşil sayıdan büyük en küçük doğal sayı x Turuncu sayıdan küçük en büyük doğal sayı. Doruk'un puanı kaç? (Görseldeki sayılar: Yeşil 157, Turuncu 50)",84,91,98,104,,B,MEB,bagimli,"[SORU] İç içe çarklar. Puan: Yeşil sayıdan büyük en küçük doğal sayı x Turuncu sayıdan küçük en büyük doğal sayı. Doruk'un puanı kaç? (Görseldeki sayılar: Yeşil 157, Turuncu 50)
+[A] 84
+[B] 91
+[C] 98
+[D] 104
+[GÖRSEL] Bu soru görsele bağlıdır.",Algoritmik / Mantıksal Problemler_Problem
+601,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Yorum,Orta,"Aşağıdaki kareli zeminde verilen şekillerden ABCD dikdörtgeninin alanı 300 cm^2'dir. Buna göre, KLMN karesinin çevresinin uzunluğu PRST karesinin çevresinin uzunluğundan kaç santimetre fazladır?",8√3,8√10,16√3,16√10,,B,MEB,bagimli,"[SORU] Aşağıdaki kareli zeminde verilen şekillerden ABCD dikdörtgeninin alanı 300 cm^2'dir. Buna göre, KLMN karesinin çevresinin uzunluğu PRST karesinin çevresinin uzunluğundan kaç santimetre fazladır?
+[A] 8√3
+[B] 8√10
+[C] 16√3
+[D] 16√10
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Yorum
+512,LGS,2025,Kareköklü İfadeler,Alan ve Geometri,Hesaplama,Kolay,"Dikdörtgen biçimindeki bir kartonun ön yüzünün tamamı 3 özdeş dikdörtgen ve 6 özdeş kareye ayrılmıştır. Dikdörtgenler maviye, kareler ise sarıya boyalı olarak aşağıda verilmiştir. Eş karelerin her birinin alanı 5 cm² dir. Buna göre, bu kartonun bir yüzünün alanı kaç santimetrekaredir?",90,105,120,135,,C,MEB,bagimli,"[SORU] Dikdörtgen biçimindeki bir kartonun ön yüzünün tamamı 3 özdeş dikdörtgen ve 6 özdeş kareye ayrılmıştır. Dikdörtgenler maviye, kareler ise sarıya boyalı olarak aşağıda verilmiştir. Eş karelerin her birinin alanı 5 cm² dir. Buna göre, bu kartonun bir yüzünün alanı kaç santimetrekaredir?
+[A] 90
+[B] 105
+[C] 120
+[D] 135
+[GÖRSEL] Bu soru görsele bağlıdır.",Alan ve Geometri_Hesaplama
+105,LGS,2022,Kareköklü İfadeler,Üslü ve Köklü İfadeler,Yorum,Kolay,"""İki farklı irrasyonel sayının çarpımı rasyonel olabilir."" ifadesine örnekler: Kerem: √24 ile √54, Doruk: 4√2 ile √98, Tunahan: √45 ile 4√5, Eylül: 2√3 ile √72. Hangisi uygun değildir?",Kerem,Doruk,Tunahan,Eylül,Ahmet,D,MEB,yok,"[SORU] ""İki farklı irrasyonel sayının çarpımı rasyonel olabilir."" ifadesine örnekler: Kerem: √24 ile √54, Doruk: 4√2 ile √98, Tunahan: √45 ile 4√5, Eylül: 2√3 ile √72. Hangisi uygun değildir?
+[A] Kerem
+[B] Doruk
+[C] Tunahan
+[D] Eylül
+[E] Ahmet",Üslü ve Köklü İfadeler_Yorum

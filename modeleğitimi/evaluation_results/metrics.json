@@ -1,0 +1,163 @@
+{
+    "accuracy_both": 0.4329896907216495,
+    "classification_report_topic": {
+        "Alan ve Geometri": {
+            "precision": 0.84,
+            "recall": 0.9545454545454546,
+            "f1-score": 0.8936170212765957,
+            "support": 22.0
+        },
+        "Algoritmik / Mantıksal Problemler": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 2.0
+        },
+        "Denklemler": {
+            "precision": 1.0,
+            "recall": 0.5,
+            "f1-score": 0.6666666666666666,
+            "support": 6.0
+        },
+        "Karşılaştırma ve Sıralama": {
+            "precision": 1.0,
+            "recall": 0.16666666666666666,
+            "f1-score": 0.2857142857142857,
+            "support": 6.0
+        },
+        "Problem Çözme": {
+            "precision": 0.45454545454545453,
+            "recall": 0.45454545454545453,
+            "f1-score": 0.45454545454545453,
+            "support": 11.0
+        },
+        "Rasyonelleştirme": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 3.0
+        },
+        "Tam Sayı / Özel Tanımlar": {
+            "precision": 0.4444444444444444,
+            "recall": 0.4444444444444444,
+            "f1-score": 0.4444444444444444,
+            "support": 9.0
+        },
+        "Yaklaşık Değer": {
+            "precision": 0.3,
+            "recall": 0.3333333333333333,
+            "f1-score": 0.3157894736842105,
+            "support": 9.0
+        },
+        "Üslü ve Köklü İfadeler": {
+            "precision": 0.47619047619047616,
+            "recall": 0.8333333333333334,
+            "f1-score": 0.6060606060606061,
+            "support": 12.0
+        },
+        "İşlem ve Sadeleştirme": {
+            "precision": 0.5882352941176471,
+            "recall": 0.5882352941176471,
+            "f1-score": 0.5882352941176471,
+            "support": 17.0
+        },
+        "accuracy": 0.5876288659793815,
+        "macro avg": {
+            "precision": 0.5103415669298021,
+            "recall": 0.42751039809863334,
+            "f1-score": 0.42550732465099106,
+            "support": 97.0
+        },
+        "weighted avg": {
+            "precision": 0.5968483063328425,
+            "recall": 0.5876288659793815,
+            "f1-score": 0.561739100188206,
+            "support": 97.0
+        }
+    },
+    "classification_report_type": {
+        "Hesaplama": {
+            "precision": 0.8292682926829268,
+            "recall": 0.8095238095238095,
+            "f1-score": 0.8192771084337349,
+            "support": 42.0
+        },
+        "Problem": {
+            "precision": 0.7,
+            "recall": 0.7241379310344828,
+            "f1-score": 0.711864406779661,
+            "support": 29.0
+        },
+        "Yorum": {
+            "precision": 0.5384615384615384,
+            "recall": 0.5384615384615384,
+            "f1-score": 0.5384615384615384,
+            "support": 26.0
+        },
+        "accuracy": 0.711340206185567,
+        "macro avg": {
+            "precision": 0.689243277048155,
+            "recall": 0.6907077596732769,
+            "f1-score": 0.6898676845583114,
+            "support": 97.0
+        },
+        "weighted avg": {
+            "precision": 0.7126728689967312,
+            "recall": 0.711340206185567,
+            "f1-score": 0.7118938799054334,
+            "support": 97.0
+        }
+    },
+    "top_confused_pairs": [
+        {
+            "True": "İşlem ve Sadeleştirme",
+            "Predicted": "Üslü ve Köklü İfadeler",
+            "Count": 5
+        },
+        {
+            "True": "Karşılaştırma ve Sıralama",
+            "Predicted": "Üslü ve Köklü İfadeler",
+            "Count": 3
+        },
+        {
+            "True": "Problem Çözme",
+            "Predicted": "Alan ve Geometri",
+            "Count": 3
+        },
+        {
+            "True": "Tam Sayı / Özel Tanımlar",
+            "Predicted": "Yaklaşık Değer",
+            "Count": 3
+        },
+        {
+            "True": "Yaklaşık Değer",
+            "Predicted": "Tam Sayı / Özel Tanımlar",
+            "Count": 3
+        },
+        {
+            "True": "Problem Çözme",
+            "Predicted": "Yaklaşık Değer",
+            "Count": 2
+        },
+        {
+            "True": "Rasyonelleştirme",
+            "Predicted": "İşlem ve Sadeleştirme",
+            "Count": 2
+        },
+        {
+            "True": "Yaklaşık Değer",
+            "Predicted": "Problem Çözme",
+            "Count": 2
+        },
+        {
+            "True": "Üslü ve Köklü İfadeler",
+            "Predicted": "İşlem ve Sadeleştirme",
+            "Count": 2
+        },
+        {
+            "True": "Alan ve Geometri",
+            "Predicted": "Problem Çözme",
+            "Count": 1
+        }
+    ]
+}
