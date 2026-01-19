@@ -18,8 +18,8 @@ MAX_LENGTH = 256
 BATCH_SIZE = 4
 EPOCHS = 6
 LEARNING_RATE = 2e-5
-DATA_DIR = r"C:\Users\Serhat PAMUK\Desktop\modeleğitimi\dataset_splits"
-OUTPUT_DIR = r"C:\Users\Serhat PAMUK\Desktop\modeleğitimi\model_checkpoint"
+DATA_DIR = r"C:\Users\omera\PhpstormProjects\LGS-VR-Math\modeleğitimi\dataset_splits"
+OUTPUT_DIR = r"C:\Users\omera\PhpstormProjects\LGS-VR-Math\modeleğitimi\model_checkpoint"
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 if not os.path.exists(OUTPUT_DIR):
